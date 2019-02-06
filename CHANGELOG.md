@@ -26,6 +26,7 @@
 [mykehsd]: https://github.com/mykehsd
 [OpherV]: https://github.com/OpherV
 [Oppodelldog]: https://github.com/Oppodelldog
+[pokey]: https://github.com/pokey
 [pcragone]: https://github.com/pcragone
 [Shoozza]: https://github.com/Shoozza
 [shpoont]: https://github.com/shpoont
@@ -38,7 +39,10 @@
 
 # Changelog
 
-#### 1.11.1-dev.21
+#### 1.12.1-dev1
+* Prepare for next release
+
+#### 1.12.0
 [Peter van der Does][petervanderdoes]
 * Bugfix: Remove inconsistency when pre_hook fails (Thanks [Gabriele Pongelli][gpongelli])
 * Fix indentation in README.md (Thanks [Shoozza][Shoozza])
@@ -73,6 +77,9 @@
 
 [Silas Palmer][silasfn]
 * Fix: Comparability change for git for windows
+
+[Pokey Rule][pokey]
+* Perform git push before deleting branch
 
 #### 1.11.0
 [Peter van der Does][petervanderdoes]
